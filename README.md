@@ -1,4 +1,4 @@
-# Egghunters
+# SEH Based Egghunter
 Windows SEH based egghunter for overcoming space restrictions - Searching for "w00tw00t"
 (registers it's own exception handler to handle access violations when iterating throguh the process's Virtual Address Space.
 
